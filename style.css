@@ -65,5 +65,5 @@ body{
 }
 
 .list li.checked .fa-check-square{
-    color: gray;
+    color: darkgray;
 }
