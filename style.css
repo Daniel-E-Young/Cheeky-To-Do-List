@@ -40,6 +40,7 @@ body{
     border-top: dotted;
     border-color: darkgray;
     position: relative;
+    
 }
 
 .list li .fa-trash{
@@ -67,3 +68,7 @@ body{
 .list li.checked .fa-check-square{
     color: darkgray;
 }
+
+
+
+
