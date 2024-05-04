@@ -1,4 +1,4 @@
-const formEl = document.querySelector(".fo");
+const formEl = document.querySelector(".form");
 
 const inputEl = document.querySelector(".input");
 
